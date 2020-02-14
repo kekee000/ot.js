@@ -1,11 +1,10 @@
 {
   "name": "ot-commonjs",
-  "private": true,
   "description": "Collaborative editing using operational transformation",
   "keywords": [
     "operational transformation"
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Tim Baumann <tim@timbaumann.info> (http://timbaumann.info)",
   "homepage": "http://operational-transformation.github.com",
   "repository": {
